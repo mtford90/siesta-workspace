@@ -7,3 +7,7 @@
 [submodule "react-siesta"]
 	path = react-siesta
 	url = git@github.com:mtford90/react-siesta.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:mtford90/siesta.git
+	branch = gh-pages
