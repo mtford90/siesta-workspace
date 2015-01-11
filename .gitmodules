@@ -1,0 +1,9 @@
+[submodule "siesta"]
+	path = siesta
+	url = git@github.com:mtford90/siesta.git
+[submodule "todo-mvc"]
+	path = todo-mvc
+	url = git@github.com:mtford90/siesta-reactjs-todomvc.git
+[submodule "react-siesta"]
+	path = react-siesta
+	url = git@github.com:mtford90/react-siesta.git
