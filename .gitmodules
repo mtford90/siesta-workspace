@@ -11,3 +11,6 @@
 	path = docs
 	url = git@github.com:mtford90/siesta.git
 	branch = gh-pages
+[submodule "pomodoro"]
+	path = pomodoro
+	url = git@github.com:mtford90/pomodorov2.git
